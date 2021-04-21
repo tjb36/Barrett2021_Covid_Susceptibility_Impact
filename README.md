@@ -12,11 +12,11 @@ The data sources used are all publicly available, and inlcude the following:
   * Financial Times Excess Deaths project  
   <https://github.com/Financial-Times/coronavirus-excess-mortality-data>
 * Location / Public Health Intervention data
-  * Google Mobility Reports  
+  * Google COVID-19 Community Mobility Reports  
   <https://www.google.com/covid19/mobility/>
-  * Google Trends  
+  * Google Trends internet search data  
   <https://trends.google.com/trends>
-  * Oxford Stringency Index  
+  * Oxford COVID-19 government response tracker ("stringency index")  
   <https://doi.org/10.1038/s41562-021-01079-8>
   * Open Table restaurant bookings  
   <https://www.opentable.com/state-of-industry>
