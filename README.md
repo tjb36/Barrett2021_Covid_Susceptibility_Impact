@@ -20,3 +20,5 @@ The data sources used are all publicly available, and inlcude the following:
   <https://doi.org/10.1038/s41562-021-01079-8>
   * Open Table restaurant bookings  
   <https://www.opentable.com/state-of-industry>
+
+Code is written with Matlab 2017a.
